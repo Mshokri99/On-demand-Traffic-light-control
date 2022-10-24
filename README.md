@@ -6,6 +6,7 @@ Here, I used Proteus 8 Professional in order to simulate AVR Atmega32. I have th
 
 # System Functionality : 
 * The system have 6 LEDs
-* Car LEDs switch every 5s 
+* Car LEDs switch every 5sec 
+*  yellowLEDs light blinking for 5sec
 * push: the button acts as a request for a pedestrian to cross the street
 * The system will stop cars if not already on red light as per request
